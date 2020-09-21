@@ -39,15 +39,24 @@ Namya : Challenges
 - When we were integrating with github we have made a few mistakes, as a result of which the video was not working .As newbies to Git, going back was as scary as going back in time. Then we learnt about git reset, it saved our day and we loved git ever since then.
 Another problem was passing the room id from the pre-interview page to the interview room, we have achieved that using local storage with the help of which we were able to store the room id in the browser for that particular session.
 
-Namya: Challenges
-
-Namya: Statistics
-Supriya : Let’s have a look at the statistics of our work.
-438 commits, with over 3500 lines of code and apart from these it took 4-5hrs of dedicated work every single day for the past two months, and tons of enthusiasm and determination to build REMO.
-
-Namya: Learning
-
 Supriya: Future
+Now lets see what are the next steps for our project:
+- At present we were able to establish a peer-to-peer connection, we are going to make it multipeer inorder to support a panelist of interviewers
+- To improve the security of the site we will implement authentication and authorization
+- Finally we are working on configuration and installation which will enable companies to customize it according to their need.
+
+Supriya:Remolution
+Working on REMO has taught us a lot both, technical and people skills
+Hours of debugging on video calls
+organizing calls at a time convinient for everyone
+taking decisions as a team 
+to mention a few.
+And this is our attempt at simplifyig interviews and exploring some wonderful concepts. And we hope one day people use REMO for their interviews.
+So folks!
+Its not just a revolution... Its remolution!!
+Thank you, well take the questions now
+
+
 
 Questions
 
