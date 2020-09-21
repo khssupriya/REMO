@@ -6,16 +6,16 @@ Mansi: REMO = IFH
  wondering what the equation means ?
  Let me explain then
 Work from home is the new normal, how does an interview from home sound?
- This is what primarily inspired us, but thinking of it , we also address many other potential problems that are encountered while conducting interviews.
-There is no interview-specific platform. The ones currently is use are all video-chat applications with a few added functionalities. Testing of technical skills requires screen-sharing or giving remote access, neither of which respect the privacy of the candidate. More so, a candidate’s portfolio is an important parameter to gauge the level of expertise and ability, these are accessed by opening multiple tabs and going back and forth.
- So here we are with REMO an integrated interface for conduction of remote interviews.
+This is what primarily inspired us, but thinking of it , we also address many other potential problems that are encountered while conducting interviews.
+Testing of technical skills requires screen-sharing or giving remote access, neither of which respect the privacy of the candidate. More so, a candidate’s portfolio is an important parameter to gauge the level of expertise and ability, these are accessed by opening multiple tabs and going back and forth.
+So here we are with REMO an integrated interface for conduction of remote interviews.
 
 
 Mansi: Features
 So let’s get ready for an online interview. 
 A face-to-a-name enables better interaction. So there is a need for a video calling application. 
 Expressing ideas by thinking out aloud is an important part of an interview, then what’s better than a whiteboard for that.
-Showcasing projects highlights one’s level of expertise. So don’t forget to document your work
+Showcasing projects highlights one’s level of expertise. So don’t forget to document your work on GitHub.
 Not all things can be said orally so a chat application is a need.
 Most importantly, a platform to test technical skills in real-time 
 A Video calling interface
