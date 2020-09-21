@@ -30,6 +30,9 @@ These features put together is REMO
 Supriya: Tech Stack
 
 Supriya: Challenges
+
+We have used WebRTC to establish to a peer to peer connection via which video and audio are transmitted
+
 We had to make a real time whiteboard, where we had to transfer data between two people connected in a room. We initially did not understand how to achieve this. We then across node js and while we are exploring node js, we then learnt about sockets, and how they can be used for real time transfer of data.
 We have followed a modular approach to build our application, so initially we made the components individually and then integrate all of them.When we were integrating with github we have made a few mistakes, as a result of which the video was not working .As newbies to Git, going back was as scary as going back in time. But with the help of github docs we learnt about git reset and it saved our day.
 Another problem was passing the room id across the pre-interview and interview rooms, we have achieved that using local storage with the help of which we were able to store the room id in the browser for that particular session, that is the interview. Another thing we used to overcome this we have also used query strings.
