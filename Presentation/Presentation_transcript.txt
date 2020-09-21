@@ -7,6 +7,8 @@ Mansi: REMO = IFH
  Let me explain then
 Work from home is the new normal, how does an interview from home sound?
  REMO is interview from home.
+Testing of technical skills requires screen-sharing or giving remote access, neither of which respect the privacy of the candidate. More so, a candidate’s portfolio is an important parameter to gauge the level of expertise and ability, these are accessed by opening multiple tabs and going back and forth.
+
 
 Mansi: Features
 So let’s get ready for an online interview. 
