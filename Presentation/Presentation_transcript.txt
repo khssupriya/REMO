@@ -35,7 +35,7 @@ So let us look at what we used to build REMO
 
 - WebRTC to establish to a peer to peer connection via which video and audio are transmitted
 - The Github V3 Rest API to display the candidate's profile
-- Chat and whiteboard were built wilth Socket IO, to transfer real-time data and are hosted on Heroku
+- real-whiteboard and chat were built wilth Socket IO, to transfer real-time data and are hosted on Heroku
 - Nuvepro is a startup based out of Bangalore, they are a provider of cloud labs
 we used their API's to spin up the virtual environment.
 
