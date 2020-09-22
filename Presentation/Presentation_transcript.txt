@@ -33,20 +33,23 @@ These features put together is REMO
 Namya : Tech Stack
 So let us look at what we used to build REMO
 
-We have used WebRTC to establish to a peer to peer connection via which video and audio are transmitted
-And the Github V3 Rest API to display the candidate's profile
-Chat and whiteboard were built wilth Socket IO, to transmit real-time data and are hosted on Heroku
-Nuvepro intro:
-And we have used their API's to spin up the virtual environment
+- WebRTC to establish to a peer to peer connection via which video and audio are transmitted
+- The Github V3 Rest API to display the candidate's profile
+- Chat and whiteboard were built wilth Socket IO, to transfer real-time data and are hosted on Heroku
+- Nuvepro is a startup based out of Bangalore, they are a provider of cloud labs
+we used their API's to spin up the virtual environment.
 
 Namya : Challenges
 - While making the whiteboard we had to transfer data between two people connected in a room in real time. 
 But we did not understand how to integrate a runtime like Node js in our website. 
-For this purpose we have hosted the whiteboard and chat in Heroku and are accessed on our website via the url and query strings.
+For this purpose we have hosted the whiteboard and chat on Heroku and are accessed on our website via the url and query strings.
+
 - When we were integrating with github we have made a few mistakes, as a result of which the video was not working 
-.As newbies to Git, going back was as scary as going back in time. Then we learnt about git reset, it saved our day and we loved git ever since then.
-Another problem was passing the room id from the pre-interview page to the interview room, 
-we have achieved that using local storage with the help of which we were able to store the room id in the browser for that particular session.
+.As newbies to Git, going back in time to a previous version was scary. We used git reset, it saved our day.
+
+-Another problem was passing the room id from the pre-interview room to the interview room, 
+using local storage we were able to store the room id in the browser for that particular session.
+
 - We were given a set of API's to begin with, we were unable to call these API's using JS across the browser, 
 so we have made use of python to call these API's. The next was to have a server up and running as an interview can be scheduled at any time. 
 For this, we have hosted the python scripts on a virtual machine on GCP.
