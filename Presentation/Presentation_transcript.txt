@@ -19,7 +19,7 @@ A face-to-a-name enables better interaction. So there is a need for a video call
 Expressing ideas by thinking out aloud is an important part of an interview, then what’s better than a realtime whiteboard for that.
 Showcasing projects highlights one’s level of expertise. So don’t forget to document your work on a platform like GitHub.
 Not all things can be said orally so a chat application is a need.
-Most importantly, a platform to test any kind of technical skill and is accesseble by both the interviewer and interviewee
+Most importantly, a platform to test any kind of technical skill which is accesseble by both the interviewer and interviewee
 
 A Video calling interface
 A whiteboard
