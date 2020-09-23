@@ -72,19 +72,13 @@ For this, we have hosted the python scripts on a virtual machine on GCP.
 Supriya: Future
 Now lets see what are the next steps for our project:
 - At present we were able to establish a peer-to-peer connection, we are going to make it multipeer inorder to support a panelist of interviewers
-- To improve the security of the site we will implement authentication and authorization
-- Finally we are working on configuration and installation which will enable companies to customize it according to their need.
+- To improve the security of the site we will add a log in and sign up system
 
 Supriya:Remolution
 Working on REMO has taught us a lot both, technical and people skills
-Hours of debugging on video calls
-organizing calls at a time convinient for everyone
-taking decisions as a team 
-to mention a few.
-And this is our attempt at simplifyig interviews and exploring some wonderful concepts. And we hope one day people use REMO for their interviews.
-So folks!
-Its not just a revolution... Its remolution!!
-Thank you, well take the questions now
+It was great a learning experience, working with REMO.
+Try it out at removirtual.com
+Thank you, we'll take the questions now
 
 
 
