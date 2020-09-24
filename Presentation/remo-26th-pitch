@@ -6,20 +6,21 @@ Mansi: REMO = IFH
  wondering what the equation means ?
  Let me explain then
 Work from home is the new normal, how does an interview from home sound?
-This is what primarily inspired us.  
 
+I attended a technical club interview over a video call during the 
+lockdown period.
+I had to share my screen and open up multiple applications to show my 
+projects or to code a question.
+Looking at the way things have turned out from the month of March, we 
+realized that this is not just an issue for students like us, but a 
+problem for those undergoing and conducting the remote interview 
+process.
 
-but thinking of it , we also address
-many other potential problems that are encountered while conducting interviews.
-Testing of technical skills requires screen-sharing or giving remote access,
-neither of which respect the privacy of the candidate. 
+Since most of our interactions has shifted to online, be it college classes, 
+working on group projects or just talking to friends, we were curious
+to know how these applications are built.
 
-More so, a candidate’s portfolio is an important parameter to gauge the level
-of expertise and ability, these are accessed by opening multiple tabs and 
-going back and forth.
-
-So here we are with REMO an interface for conduction of remote interviews.
-
+This is what primarily inspired us.
 
 Mansi: Features
 So let’s get ready for an online interview. 
@@ -38,11 +39,7 @@ Not all things can be said orally so a chat application is a need.
 Most importantly, a platform to test any kind of technical skill 
 which is accesseble by both the interviewer and interviewee
 
-A Video calling interface
-A whiteboard
-Access to github profile
-Chat
-And a virtual environment
+These are the features we thought are necessary for an online interview.
 
 
 These features put together is REMO
