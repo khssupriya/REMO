@@ -50,8 +50,6 @@ Most of the platforms try to simplify/aid the hiring process but do not focus on
 Platforms that support testing of technical skills, at the maximum offer a code editor, however the virtual environment offers much more.
 
 Our motive is to improve the interview experience. It should be hassle-free for both the interviewer/interviewee.  
-
-Namya: Competitve Platforms
 (i) Google meet, Skype, Zoom : These are not interview specific platforms but are used very commonly (due to ease of use)
 
 (ii) Hackerrank, myInterview, intrakt (these have candidate testing feature included, only limited to testing skills with respect to coding skills)
@@ -64,20 +62,20 @@ ATS, a utility to filter out applications)
 (v) Shine , Sonru, offer a solution to hire candidates across various domains, but facilities mostly limited to video interface
 
 
+In addition to the Video-chat, and a real-time whiteboard, we propose to offer 
+-A domain-specific virtual environment hosted on the cloud for testing of any technical skills which is accessible by both the parties and the candidate doesn’t have to share the screen. Let’s take an example, for a graphic designer, an instance of photoshop can be set up, or consider another situation where a candidate has to be tested on a programming language or databases, the respective environment will be set up.
 
-Supriya: Future
-Now lets see what are the next steps for our project:
-- At present we were able to establish a peer-to-peer connection, we are going to make it multipeer inorder to support a panelist of interviewers
-- To improve the security of the site we will implement authentication and authorization
-- Finally we are working on configuration and installation which will enable companies to customize it according to their need.
+-Sharing screen or providing remote access, as this is an invasion of privacy so our virtual environment is hosted on the cloud. Each user can control the environment simultaneously.
+
+-One of our motives is to bring online interviews as close to offline interviews, an important component is to invigilate or monitor the testing environment.  
+
+-Instead of narrating his/her works, the written proof is always better and more convincing. A glimpse of interviewee’s resume and works of the interviewee will be provided to the interviewer to gauge the level of expertise better,  
+
+Interviewers and interviewees can be connected from all around the world, thereby eliminating the physical presence of the interviewee at the location of the interview
+     
+-Most of the other platforms that we use aren’t built in India, our end-to-end product is made in India. We ensure data security..(discuss later)
 
 Supriya:Remolution
-Working on REMO has taught us a lot both, technical and people skills
-Hours of debugging on video calls
-organizing calls at a time convinient for everyone
-taking decisions as a team 
-to mention a few.
-And this is our attempt at simplifyig interviews and exploring some wonderful concepts. And we hope one day people use REMO for their interviews.
 So folks!
 Its not just a revolution... Its remolution!!
 Thank you, well take the questions now
