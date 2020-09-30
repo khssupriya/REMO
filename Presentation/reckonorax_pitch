@@ -31,8 +31,8 @@ for a video calling application.
 Expressing ideas by thinking out aloud is an important part of
 an interview, then what’s better than a realtime whiteboard for that.
 
-Showcasing projects highlights one’s level of expertise. So don’t
-forget to document your work on a platform like GitHub.
+Showcasing your work on a public platform highlights one’s level of expertise. So don’t
+forget to document your work and keep it up-to-date.
 
 Not all things can be said orally so a chat application is a need.
 
@@ -41,30 +41,20 @@ which is accesseble by both the interviewer and interviewee
 
 A Video calling interface
 A whiteboard
-Access to github profile
+Access to social profiles
 Chat
 And a virtual environment
 
 These features put together is REMO
 
-- Statistics
+Namya LG
 
-- Why REMO is differnet
-Most of the platforms try to simplify/aid the hiring process but do not focus on the experience of the interview in specific. Our product will also ensure thorough testing of technical skills under any domain given the aspect of setting up a virtual environment on the cloud.
+Why REMO is differnet
+- Most of the platforms try to simplify/aid the hiring process but do not focus on the experience of the interview in specific. 
+- The platforms that are used by the majority are mostly just video-calling applications with a few added functionalities
+- Platforms that support testing of technical skills, at the maximum offer a code editor, however the virtual environment offers much more.
+- Our product will also ensure thorough testing of technical skills under any domain
 
-Platforms that support testing of technical skills, at the maximum offer a code editor, however the virtual environment offers much more.
-
-Our motive is to improve the interview experience. It should be hassle-free for both the interviewer/interviewee.  
-(i) Google meet, Skype, Zoom : These are not interview specific platforms but are used very commonly (due to ease of use)
-
-(ii) Hackerrank, myInterview, intrakt (these have candidate testing feature included, only limited to testing skills with respect to coding skills)
-
-(iii) Sparkhire,  these integrate with application tracking systems(ATS) (these provide
-ATS, a utility to filter out applications)
-
-(iv) Some use AI based solutions to improve the experience
-
-(v) Shine , Sonru, offer a solution to hire candidates across various domains, but facilities mostly limited to video interface
 
 
 In addition to the Video-chat, and a real-time whiteboard, we propose to offer 
@@ -99,3 +89,17 @@ Why not teams?
 Hassle
 I would go with ready-made than making one
 Because, don't want to spend time setting up something for one day which I won't use the other day.
+
+
+
+Our motive is to improve the interview experience. It should be hassle-free for both the interviewer/interviewee.  
+(i) Google meet, Skype, Zoom : These are not interview specific platforms but are used very commonly (due to ease of use)
+
+(ii) Hackerrank, myInterview, intrakt (these have candidate testing feature included, only limited to testing skills with respect to coding skills)
+
+(iii) Sparkhire,  these integrate with application tracking systems(ATS) (these provide
+ATS, a utility to filter out applications)
+
+(iv) Some use AI based solutions to improve the experience
+
+(v) Shine , Sonru, offer a solution to hire candidates across various domains, but facilities mostly limited to video interface
