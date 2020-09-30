@@ -59,9 +59,6 @@ Namya : Challenges
 But we did not understand how to integrate a runtime like Node js in our website. 
 For this purpose we have hosted the whiteboard and chat on Heroku and are accessed on our website via the url and query strings.
 
-- When we were integrating with github we have made a few mistakes, as a result of which the video was not working 
-.As newbies to Git, going back in time to a previous version was scary. We used git reset, it saved our day.
-
 -Another problem was passing the room id from the pre-interview room to the interview room, 
 using local storage we were able to store the room id in the browser for that particular session.
 
