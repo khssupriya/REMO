@@ -35,6 +35,14 @@ Features offered by REMO
 - Implemented using Nuvepro CloudLab API
 - Hosted on Google Cloud Platform
 
+## Achievements ##
+- 4th place in Ideathon by GirlScript Alwar
+- Finalist at THacks3.0, conducted by IEEE AGDITM, Delhi (Top 10 teams)
+- Finalist at Evotech4.0 conducted by BVP Delhi, in the category Employment
+- 2nd place in the Recruit-a-thon conducted by HackerEarth out of over 2500 participants
+- 2nd place in Carpe Diem Online Contest by ACM-W NIT-K
+- 1st prize in the software category in Technovate Innerve by IGDTUW, Delhi
+- 2nd place in Ideathon by DSC VIT, Vellore
 
 ## Contributors ##
 - [Mansi Sharma](https://github.com/mansi35)
